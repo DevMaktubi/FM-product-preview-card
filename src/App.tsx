@@ -16,7 +16,7 @@ function App() {
               Perfume
             </h2>
             <h1 className="font-fraunces font-bold leading-8 text-display text-metal mb-4 lg:mb-6">
-              Gabrielle Essence Eau de Parfum
+              Gabrielle Essence Eau De Parfum
             </h1>
             <h2 className="font-montserrat text-body text-gray leading-6">
               A floral, solar and voluptuous interpretation composed by Olivier
@@ -24,13 +24,13 @@ function App() {
             </h2>
             <div className="mt-6 mb-5 lg:my-6 flex items-center justify-start w-max gap-[19px]">
               <h1 className="font-fraunces text-aquamarine text-display font-bold leading-8">
-                $149.00
+                $149.99
               </h1>
               <h3 className="font-montserrat text-[13px] leading-6 text-gray line-through">
                 $169.99
               </h3>
             </div>
-            <button className="bg-aquamarine hover:bg-aquamarine-hover w-full h-12 rounded flex justify-center items-center text-white gap-3 font-montserrat font-bold">
+            <button className="bg-aquamarine hover:bg-aquamarine-hover w-full h-12 rounded-lg flex justify-center items-center text-white gap-3 font-montserrat font-bold">
               <img src={CartIcon} alt="Cart icon" />
               Add to Cart
             </button>
