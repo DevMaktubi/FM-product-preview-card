@@ -22,7 +22,7 @@ function App() {
               A floral, solar and voluptuous interpretation composed by Olivier
               Polge, Perfumer-Creator for the House of CHANEL.
             </h2>
-            <div className="mt-6 mb-5 lg:my-6 flex items-center justify-start w-max gap-[19px]">
+            <div className="mt-6 mb-5 lg:mt-[29px] lg:mb-6 flex items-center justify-start w-max gap-[19px]">
               <h1 className="font-fraunces text-aquamarine text-display font-bold leading-8">
                 $149.99
               </h1>
