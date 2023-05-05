@@ -12,7 +12,7 @@ function App() {
         </div>
         <div className="flex-1">
           <div className="p-6 lg:p-8">
-            <h2 className="font-montserrat tracking-[5px] uppercase text-gray mb-3 lg:mb-5">
+            <h2 className="font-montserrat text-[12px] tracking-[5px] uppercase text-gray mb-3 lg:mb-5">
               Perfume
             </h2>
             <h1 className="font-fraunces font-bold leading-8 text-display text-metal mb-4 lg:mb-6">
