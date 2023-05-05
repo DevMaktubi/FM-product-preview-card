@@ -4,7 +4,12 @@ function App() {
   return (
     <div className="w-100 h-screen overflow-none flex justify-center items-center">
       <main className="w-[343px] h-[611px] lg:w-[600px] lg:h-[450px] bg-white rounded flex flex-col lg:flex-row">
-        <div className="bg-parfum-bg-mobile lg:bg-parfum-bg-desktop bg-contain lg:flex-1 min-h-[240px] w-full rounded-l"></div>
+        <div className="bg-parfum-bg-mobile lg:bg-parfum-bg-desktop bg-contain lg:flex-1 min-h-[240px] w-full rounded-l">
+          <span className="sr-only">
+            An image with a perfume on a white background, with some leaves
+            around
+          </span>
+        </div>
         <div className="flex-1">
           <div className="p-6 lg:p-8">
             <h2 className="font-montserrat tracking-[5px] uppercase text-gray mb-3 lg:mb-5">
